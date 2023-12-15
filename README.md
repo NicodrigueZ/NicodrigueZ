@@ -1,6 +1,7 @@
 ### Hola👋      
 
 Mi nombre es Facundo RodrigueZ soy estudiante de **Licenciatura en Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar) (**UNO**).
+Estoy interesado en la rama de Datos, aunque tambien lo estoy en el Desarrollo de Software. 
 
 ## Tecnologías que usé
 <a href="#" target="blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicodrigueZ&layout=compact&theme=tokyonight&hide_border=true" alt="stats" /></a>          
