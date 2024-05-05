@@ -3,8 +3,7 @@
 Mi nombre es Facundo RodrigueZ soy estudiante de **Licenciatura en Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar) (**UNO**).
 Estoy interesado en la rama de Datos, aunque tambien lo estoy en el Desarrollo de Software. 
 
-## Tecnologías que usé
-<a href="#" target="blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicodrigueZ&layout=compact&theme=tokyonight&hide_border=true" alt="stats" /></a>          
+## Tecnologías que usé         
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
