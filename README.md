@@ -13,8 +13,6 @@ Estoy interesado en la rama de Datos, aunque tambien lo estoy en el Desarrollo d
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="SQLserver" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat"></a>
 
-<a href="#" target="blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicodrigueZ&layout=compact&theme=tokyonight&hide_border=true" alt="stats" /></a> 
-
 ## Contáctame 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/nicodriguez3/)
